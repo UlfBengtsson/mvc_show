@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mvc_show
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nordi
+Implementation-Vendor-Id: se.lexicon
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mvc_show
+Created-By: Maven Integration for Eclipse
+
